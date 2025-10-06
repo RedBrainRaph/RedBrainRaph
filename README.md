@@ -2,8 +2,8 @@
 ## Hi there 👋 I’m Nikita  
 I am a **2nd-year Software Engineering student** at **VVSU** 🎓  
 
-I am passionate about **backend** and **mobile development**.  
-I constantly learn new technologies and strive to grow as a developer 🚀  
+I am passionate about backend and mobile development,  
+and I constantly explore new technologies to grow as a developer 🚀  
 
 ---
 
@@ -15,7 +15,7 @@ I constantly learn new technologies and strive to grow as a developer 🚀
 ## 🧠 Skills & Tools  
 
 ### 💻Programming Languages
-**🚀Currently learning:**  
+**🚀Learning:**  
 <div style="display: flex; gap: 10px; align-items: center; margin-bottom: 15px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" title="Cpp" alt="Cpp" width="40" height="40"/>
@@ -32,7 +32,7 @@ I constantly learn new technologies and strive to grow as a developer 🚀
 </div>
 
 ### ⚙️Frameworks & Libraries
-**🚀Currently learning:**  
+**🚀Learning:**  
 <div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" title="Django" alt="Django" width="40" height="40"/>
 </div>
@@ -44,7 +44,7 @@ I constantly learn new technologies and strive to grow as a developer 🚀
 </div>
 
 ### 💾Databases
-**🚀Currently learning:**  
+**🚀Learning:**  
 <div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" title="Postgres" alt="Postgres" width="40" height="40"/>
 </div>
@@ -55,7 +55,7 @@ I constantly learn new technologies and strive to grow as a developer 🚀
 </div>
 
 ### 🛠 Tools & Environments
-**🚀Currently using:**   
+**🚀Using:**   
 <div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
@@ -71,18 +71,18 @@ I constantly learn new technologies and strive to grow as a developer 🚀
 
 ---
 
-## 🚀 My pet-projects  
+## 🚀 My pet projects  
 
 ### 💇‍♂️ **BeautySpace** *(in progress)*  
 A website for a modern beauty salon — a unified online space for men and women,  
-designed with focus on **convenience**, **style**, and **comfort**.
+designed with a focus on **convenience**, **style**, and **comfort**.
 
 ---
 
 ## ⚡ Fun Facts  
 - 🏂 I love snowboarding and enjoy winter, mountains, and fresh air.  
 - 💭 I believe the best code comes after proper rest.  
-- 🎧 I enjoy working with music — it helps me focus and get inspired.  
+- 🎧 I enjoy working with music — it helps me focus and relax.  
 
 ---
 
