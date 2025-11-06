@@ -12,6 +12,14 @@ and I constantly explore new technologies to grow as a developer 🚀
 - 💡 Learning programming fundamentals and application architecture, interested in modern development approaches  
 
 ---
+
+## 🚀 My pet projects  
+
+### 💇‍♂️ **BeautySpace** *(in progress)*  
+A website for a modern beauty salon — a unified online space for men and women,  
+designed with a focus on **convenience**, **style**, and **comfort**.
+
+---
 ## 🧠 Skills & Tools  
 
 ### 💻Programming Languages
@@ -68,14 +76,6 @@ and I constantly explore new technologies to grow as a developer 🚀
 <br>
 
 > ✨The list will continue to grow over time as I learn new technologies.
-
----
-
-## 🚀 My pet projects  
-
-### 💇‍♂️ **BeautySpace** *(in progress)*  
-A website for a modern beauty salon — a unified online space for men and women,  
-designed with a focus on **convenience**, **style**, and **comfort**.
 
 ---
 
