@@ -56,6 +56,7 @@ designed with a focus on **convenience**, **style**, and **comfort**.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
+<br>
 
 > ✨The list will continue to grow over time as I learn new technologies.
 
