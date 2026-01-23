@@ -26,7 +26,7 @@ designed with a focus on **convenience**, **style**, and **comfort**.
 **🚀Learning:**  
 <div style="display: flex; gap: 10px; align-items: center; margin-bottom: 15px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" title="Cpp" alt="Cpp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" title="Go" alt="Go" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" title="Js" alt="Js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" title="html" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" title="css" alt="css" width="40" height="40"/>
@@ -34,8 +34,6 @@ designed with a focus on **convenience**, **style**, and **comfort**.
 
 **💡Planning to learn:**  
 <div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" title="Go" alt="Go" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Swift.svg" title="Swift" alt="Swift" width="40" height="40"/>
 </div>
 
@@ -45,35 +43,19 @@ designed with a focus on **convenience**, **style**, and **comfort**.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" title="Django" alt="Django" width="40" height="40"/>
 </div>
 
-**💡Planning to learn:**  
-<div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" title="Spring" alt="Spring" width="40" height="40"/>
-</div>
-
 ### 💾Databases
 **🚀Learning:**  
 <div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" title="Postgres" alt="Postgres" width="40" height="40"/>
 </div>
 
-**💡Planning to learn:**  
-<div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" title="MySql" alt="MySql" width="40" height="40"/>
-</div>
-
 ### 🛠 Tools & Environments
 **🚀Using:**   
 <div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
-
-**💡Planning to learn:**  
-<div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
-<br>
 
 > ✨The list will continue to grow over time as I learn new technologies.
 
