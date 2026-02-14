@@ -22,7 +22,10 @@ designed with a focus on **convenience**, **style**, and **comfort**.
 ---
 ## 🧠 Skills & Tools  
 
+# Обновляю информацию о стеке в связи с изменением планов. Скоро появится.
+<!--
 ### 💻Programming Languages
+
 **🚀Learning:**  
 <div style="display: flex; gap: 10px; align-items: center; margin-bottom: 15px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -36,6 +39,7 @@ designed with a focus on **convenience**, **style**, and **comfort**.
 <div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Swift.svg" title="Swift" alt="Swift" width="40" height="40"/>
 </div>
+
 
 ### ⚙️Frameworks & Libraries
 **🚀Learning:**  
@@ -58,7 +62,9 @@ designed with a focus on **convenience**, **style**, and **comfort**.
 </div>
 <br>
 
+
 > ✨The list will continue to grow over time as I learn new technologies.
+-->
 
 ---
 
