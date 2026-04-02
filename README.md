@@ -15,9 +15,7 @@ and I constantly explore new technologies to grow as a developer 🚀
 
 ## 🚀 My pet projects  
 
-### 💇‍♂️ **BeautySpace** *(in progress)*  
-A website for a modern beauty salon — a unified online space for men and women,  
-designed with a focus on **convenience**, **style**, and **comfort**.
+### 💇‍♂️ **Barbershop website** *(🚧in progress)* • [RedBrain BS](https://github.com/RedBrainRaph/Barbershop_RedBrain)
 
 ---
 ## 🧠 Skills & Tools  
