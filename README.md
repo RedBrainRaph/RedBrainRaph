@@ -20,51 +20,59 @@ A website for a modern beauty salon — a unified online space for men and women
 designed with a focus on **convenience**, **style**, and **comfort**.
 
 ---
-## 🧠 Skills & Tools  
+# 🧠 Skills & Tools  
 
-# Обновляю информацию о стеке в связи с изменением планов. Скоро появится.
-<!--
 ### 💻Programming Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,ts" />
+  </a>
+</p>
 
-**🚀Learning:**  
-<div style="display: flex; gap: 10px; align-items: center; margin-bottom: 15px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" title="Go" alt="Go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" title="Js" alt="Js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" title="html" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" title="css" alt="css" width="40" height="40"/>
-</div>
-
-**💡Planning to learn:**  
-<div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Swift.svg" title="Swift" alt="Swift" width="40" height="40"/>
-</div>
-
+#### 📝Planning to learn
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,swift,java" />
+  </a>
+</p>
 
 ### ⚙️Frameworks & Libraries
-**🚀Learning:**  
-<div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" title="Django" alt="Django" width="40" height="40"/>
-</div>
+#### 📝Planning to learn
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</p>
 
 ### 💾Databases
-**🚀Learning:**  
-<div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" title="Postgres" alt="Postgres" width="40" height="40"/>
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+#### 📝Planning to learn
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,redis" />
+  </a>
+</p>
 
 ### 🛠 Tools & Environments
-**🚀Using:**   
-<div style="display: flex; gap: 10px; align-items: center; margin-top: 15px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>
-</div>
-<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,figma" />
+  </a>
+</p>
 
+#### 📝Planning to learn
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka" />
+  </a>
+</p>
 
 > ✨The list will continue to grow over time as I learn new technologies.
--->
 
 ---
 
