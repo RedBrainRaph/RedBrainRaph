@@ -20,7 +20,7 @@ A website for a modern beauty salon — a unified online space for men and women
 designed with a focus on **convenience**, **style**, and **comfort**.
 
 ---
-# 🧠 Skills & Tools  
+## 🧠 Skills & Tools  
 
 ### 💻Programming Languages
 <p align="left">
