@@ -71,7 +71,7 @@ and I constantly explore new technologies to grow as a developer 🚀
 </p>
 
 > ✨The list will continue to grow over time as I learn new technologies.
-
+<!--
 ---
 
 ## ⚡ Fun Facts  
@@ -80,7 +80,7 @@ and I constantly explore new technologies to grow as a developer 🚀
 - 🎧 I enjoy working with music — it helps me focus and relax.  
 
 ---
-
+-->
 ## 📫 Contacts
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 5px;">
@@ -104,11 +104,3 @@ and I constantly explore new technologies to grow as a developer 🚀
 </div>
 
 ---
-
->⭐ *"The best way to predict the future is to create it yourself."*  
->💪 *"Don't wait or complain — just start doing."*
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVkOGNhMXp3dnF1cmw0cXoxb3l0cDRiYnY2dDA2ank2ZDEwZ3ppYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/p3jODc8SCg6H5VwSdJ/giphy.gif" width="100"/>
-</div>
